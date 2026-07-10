@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Gssjsdddddd</h1> cambios de gaspar gracias
+          <h1>Gssjsdddddd</h1> cambios de gaspar como asi
           <p>
             Edit <code>cjcjcjsrc/App.jsx</code> and save to test <code>HMR</code>
           </p>
